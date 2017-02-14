@@ -1,0 +1,34 @@
+{
+  "name": "ti_report",
+  "version": "1.0.0",
+  "description": "Appcelerator Titanium Source Code Metrics Reporter",
+  "main": "ti_report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creador/ti_report.git"
+  },
+  "keywords": [
+    "appcelerator",
+    "titanium",
+    "reporter",
+    "sourcecode",
+    "source",
+    "code",
+    "metrics",
+    "visualization",
+    "visualizer",
+    "dependencies"
+  ],
+  "author": "Pablo Schaffner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/creador/ti_report/issues"
+  },
+  "homepage": "https://github.com/creador/ti_report#readme",
+  "dependencies": {
+    "escomplex": "^2.0.0-alpha"
+  }
+}
